@@ -15,6 +15,8 @@ unzip pickle-files.zip
 2.Choose the Radio Button under images.　Consider whether the image corresponds to the condition and the image is clearness.<br>
 If both image is not clearness and corresponding condition, click the Skip Button.<br>
 
+When the first evaluation (DCGAN) is completed, the second evaluation (PGGAN) is automatically started.
+
 # Requirement
 over   : python2
 
