@@ -1,5 +1,8 @@
 # GANs-Evaluation
 Subjective evaluation of generated images.
+
+Evaluation images need to save in pickle file.
+
 # How to Evaluate
 ./Evaluation.sh
 # Requirement
