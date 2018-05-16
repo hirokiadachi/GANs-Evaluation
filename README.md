@@ -17,6 +17,8 @@ If both image is not clearness and corresponding condition, click the Skip Butto
 
 When the first evaluation (DCGAN) is completed, the second evaluation (PGGAN) is automatically started.
 
+<img width="363" alt="evalutation-exp" src="https://user-images.githubusercontent.com/27120804/40094429-ec393c90-5901-11e8-9585-5fe2580e2c3a.png">
+
 # Requirement
 over   : python2
 
