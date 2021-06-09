@@ -1,5 +1,5 @@
 # GANs-Evaluation
-Subjective evaluation of generated images.<br>
+This GUI application is for subjectively evaluating  of generated images quality.
 Evaluation images need to save in pickle file.<br>
 
 
@@ -11,8 +11,8 @@ unzip pickle-files.zip
 ./Evaluation.sh
 ```
 
-1.Type name on Entry Box.  Then, click the Insert Button next the Entry Box so be displayed two images.<br>
-2.Choose the Radio Button under images.　Consider whether the image corresponds to the condition and the image is clearness.<br>
+1.Please, typing evaluator name on the entry box.  Then, click the insert button next to the entry box, after that displayed two images.<br>
+2.Choose the radio button under the images. Consider whether the image corresponds to the condition and the image is clearness.<br>
 If both image is not clearness and corresponding condition, click the Skip Button.<br>
 
 When the first evaluation (DCGAN) is completed, the second evaluation (PGGAN) is automatically started.
